@@ -16,13 +16,9 @@ Bu proje, kullanıcıdan onluk (decimal) tabanda alınan bir tamsayıyı, Python
 
 Program ayrıca, girilen sayının bilgisayar belleğinde (memory) nasıl tutulduğunu simüle etmek amacıyla, sayıyı 8-bitlik kutucuklar halinde görselleştirerek konsola yazdırır. Negatif sayıların temsili için "Two's Complement" (İkiye Tümleme) mantığı esas alınmıştır.
 
-### 2. Kullanılan Kütüphaneler ve Kurulum
+### 2. Kullanılan Kütüphaneler 
 Bu proje standart Python kütüphaneleri ile yazılmıştır, çalıştırılması için harici bir kütüphane kurulumu gerektirmez.
 
-**Çalıştırmak için:**
-1. Proje dosyasının bulunduğu klasörde terminali açın.
-2. Aşağıdaki komutu yazın:
-   `python egeozel.py`
 
 ### 3. Algoritma Mantığı ve Kodun Çalışma Prensibi
 Kodun çalışma mantığı şu adımlardan oluşur:
