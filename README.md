@@ -7,7 +7,7 @@
 
 ## Proje Sunum Videosu
 Proje anlatım ve kod çalıştırma videosuna aşağıdaki linkten ulaşabilirsiniz:
-[YouTube Video Linki](https://youtube.com/...) 
+[YouTube Video Linki](https://youtube.com/...](https://youtu.be/tiNZ_MiDhRk) 
 
 ## Proje Açıklaması
 ### 1. Kodun İşlevi
